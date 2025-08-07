@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://svgshare.com/i/16w7.svg" width="100%" alt="Yellow Gradient Banner"/>
+</p>
+
+<h1 align="center" style="color:#FFD600;">Leonardo Mosetti</h1>
+
+<p align="center">
+  <a href="mailto:tua.email@example.com">
+    <img src="https://img.shields.io/badge/email-FFD600?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tuo-profilo-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-FFD600?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://svgshare.com/i/16wY.svg" width="60%" alt="Yellow Gradient Divider"/>
+</p>
