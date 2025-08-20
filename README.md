@@ -1,4 +1,4 @@
-## Leonardo
+## ~
 
 <p align="center" style="background-color:#1e1e1e; padding:30px; border-radius:15px; display:inline-block;">
   
@@ -12,8 +12,3 @@
       <img src="https://img.shields.io/badge/Instagram-FFD600?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
     </a>
   </p>
-  
-  <p align="center" style="color:#FFD600;">
-    ✨ Benvenuto nel mio profilo GitHub ✨
-  </p>
-</p>
